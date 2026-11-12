@@ -1,0 +1,81 @@
+{
+    "course":  "CCS 101",
+    "brandMark":  "C",
+    "brandName":  "CCS 101",
+    "brandSub":  "Revision Notes",
+    "suffix":  "CCS 101 Revision",
+    "metadesc":  "Study notes for CCS 101 Communication Skills, from academic communication to writing and study skills.",
+    "kicker":  "CCS 101 · University of Embu",
+    "heroTitle":  "Communication Skills",
+    "heroLede":  "Course notes, interactive progress tracking, topic search and practice — built for learning from the foundations.",
+    "footer":  "CCS 101 — Communication Skills. Source-based study notes.",
+    "repoUrl":  "https://github.com/raymonddoka851-del/ccs-101-communication-skills/blob/main/",
+    "accent":  "#d97706",
+    "accent2":  "#be123c",
+    "accentDark":  "#fcd34d",
+    "accent2Dark":  "#fda4af",
+    "store":  "ccs101",
+    "quizHub":  "All quizzes",
+    "docset":  [
+                   {
+                       "md":  "START_HERE.md",
+                       "group":  "Start here",
+                       "label":  "Start here",
+                       "out":  "START_HERE.html"
+                   },
+                   {
+                       "md":  "YOUR_STUDY_PLAN.md",
+                       "group":  "Start here",
+                       "label":  "Your study plan",
+                       "out":  "YOUR_STUDY_PLAN.html"
+                   },
+                   {
+                       "md":  "CHEAT_SHEET.md",
+                       "group":  "Start here",
+                       "label":  "Cheat sheet",
+                       "out":  "CHEAT_SHEET.html"
+                   },
+                   {
+                       "md":  "PROGRESS_TRACKER.md",
+                       "group":  "Start here",
+                       "label":  "Progress tracker",
+                       "out":  "PROGRESS_TRACKER.html"
+                   },
+                   {
+                       "md":  "notes/01_fundamentals-of-communication.md",
+                       "group":  "Notes",
+                       "label":  "01 · Fundamentals of Communication",
+                       "out":  "notes/01_fundamentals-of-communication.html"
+                   },
+                   {
+                       "md":  "notes/02_communication-and-collaboration.md",
+                       "group":  "Notes",
+                       "label":  "02 · Communication and Collaboration",
+                       "out":  "notes/02_communication-and-collaboration.html"
+                   },
+                   {
+                       "md":  "notes/03_study-skills.md",
+                       "group":  "Notes",
+                       "label":  "03 · Study Skills",
+                       "out":  "notes/03_study-skills.html"
+                   },
+                   {
+                       "md":  "notes/04_writing-skills.md",
+                       "group":  "Notes",
+                       "label":  "04 · Writing Skills",
+                       "out":  "notes/04_writing-skills.html"
+                   },
+                   {
+                       "md":  "practice/QUESTION_BANK.md",
+                       "group":  "Practice",
+                       "label":  "Question bank",
+                       "out":  "practice/QUESTION_BANK.html"
+                   },
+                   {
+                       "md":  "practice/ANSWER_KEY.md",
+                       "group":  "Practice",
+                       "label":  "Answer key",
+                       "out":  "practice/ANSWER_KEY.html"
+                   }
+               ]
+}
