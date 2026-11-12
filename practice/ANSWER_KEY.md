@@ -1,13 +1,23 @@
-# Answer key and self-assessment
+# CCS 101 · Answer guide
 
-This pack is based on the provided course outline and lecture material. For
-open-ended questions, check the relevant topic note and the original source
-material. A complete answer should use accurate terminology, show the reasoning
-or method, and address every part of the prompt.
+Use these points to check understanding. Strong answers use accurate terms and a relevant example.
 
-- **Ready:** correct explanation without notes.
-- **Review:** mostly correct, but needed a prompt or missed an important step.
-- **Retry:** could not explain the idea yet; revisit the note and try again.
+## 01 · Fundamentals
+- **C01-Q1:** Participant/source encodes a message through a channel; receiver decodes and gives feedback. Context and noise affect interpretation; participants can exchange roles.
+- **C01-Q2:** Message is the content/request; channel is email. Example: the message asks for a deadline clarification; email carries it.
+- **C01-Q3:** Example: “Please email me the draft report by 3 p.m. Thursday so I can review it.” It identifies the item, action, deadline, purpose, and courteous tone.
 
-Keep corrections in the weak-topic action plan rather than copying answers
-without understanding them.
+## 02 · Collaboration, listening, oral and reading
+- **C02-Q1:** Hearing receives sound; listening attends to, interprets, evaluates, and responds. Prepare, attend, check meaning, respond.
+- **C02-Q2:** Agree on one outcome, assign owners and due dates, record decisions, check progress, integrate work, and review together.
+- **C02-Q3:** Skim for overview; scan for a particular detail; close-read to understand and evaluate reasoning/evidence.
+
+## 03 · Study and information literacy
+- **C03-Q1:** Survey, Question, Read, Recite/Recall, Review. Retrieval requires producing information without looking; rereading mainly presents it again.
+- **C03-Q2:** A valid plan has a specific outcome, an initial learning/retrieval session, a later closed-book retry, and feedback/correction.
+- **C03-Q3:** Evaluate creator expertise, supporting evidence, relevance to the task, date when currency matters, and purpose/perspective; record details and cite using the required style.
+
+## 04 · Writing
+- **C04-Q1:** Revising improves argument/structure; editing improves wording and sentence correctness; proofreading catches final typographical and formatting errors.
+- **C04-Q2:** A focused claim followed by relevant support/evidence/example and explanation linking it back to the claim.
+- **C04-Q3:** Understand the source, restate its idea in a genuinely new sentence structure and wording, preserve meaning, and cite the source. Quote exact wording only when clearly marked and cited.

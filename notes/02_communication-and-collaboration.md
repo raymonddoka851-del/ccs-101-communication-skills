@@ -1,63 +1,101 @@
-# 02 · Communication and Collaboration
+# 02 · Collaboration, Listening, Oral and Reading Skills
 
-> Source: Lesson 2.txt. This page is searchable, and the checklist state is saved in this browser.
+> Study focus: work productively with others, listen for meaning, take useful notes, and communicate ideas aloud and in writing. Based on Lesson 2 and the CCS 101 course outline.
 
-## Learning checks
+## 1. Collaboration: make shared work visible
 
-- [ ] Identify the key terms and explain them without looking.
-- [ ] Summarize the main idea in your own words.
-- [ ] Work through an example or answer a related question.
+**Collaboration** is two or more people working together toward a shared task or goal. It can support teamwork, communication, innovation, and effective delivery when members contribute and coordinate.
 
-## Course notes
+### A simple group-work cycle
 
-Topic 2/11: Listening and Note Taking14 September, 20267.00 10.00 am
+1. **Agree on the outcome:** turn the assignment into a clear shared goal.
+2. **Plan the work:** break it into tasks, owners, and realistic deadlines.
+3. **Share information:** listen, contribute evidence, and keep notes of decisions.
+4. **Check progress:** ask what is complete, what is blocked, and who needs help.
+5. **Combine and review:** check that the parts fit together and represent the group’s agreed work.
+6. **Reflect:** identify what helped the group and what to change next time.
 
-Expected learning outcomesBy the end of this lesson, you will be able to:1.Describe the meaning of listening and its importance2.Explain the levels of listening3.Discuss the characteristics of a good listener & how to improve the skill4.Identify barriers of effective listening in varied contexts and how to overcome them.5.Explain the meaning of taking notes6.Take notes in various situations7.Take notes that show relative importance of ideas using different formats8.Code information in diagrammatic forms such as mind maps, charts, tables, social grams among others.
+**Example:** For a short research presentation, members can agree on the question, assign source-finding and slide tasks, set a merge deadline, and rehearse together. A named owner and due date make each task trackable.
 
-Lesson content/flow of the lesson1.Meaning of listening2.Levels of listening3.Qualities of a good listener4.Barriers of effective listening5.Note taking6.Guidelines to note taking7.Note formats
+### Collaboration checklist
 
-Definition of ListeningListening is different from hearing.Hearingis about receiving sound. Listeninggoes beyond. It involves constructing meaning and responding to messages.Listening means paying attention and making a conscious effort to process what you hear.It is active, deliberate and selective process of receiving aural stimuli.We can therefore say, listening is a voluntary process that goes beyond simply reacting to sounds and includes understanding, analyzing, evaluating and responding.
+- [ ] Goal, roles, and deadlines are understood by everyone.
+- [ ] Each member has a meaningful contribution.
+- [ ] Decisions and sources are recorded and shared.
+- [ ] Disagreement is about ideas and evidence, not personal attacks.
+- [ ] The final work is reviewed as one coherent product.
 
-Importance of ListeningEssential for effective communicationVital for academic and professional successBuilding and maintaining relationshipsLinked to memory retentionCrucial in determining honesty in communicationReduces misunderstandings
+## 2. Listening is active meaning-making
 
-Varying levels of concentration in listening depends on:The purpose of listening.Physical and psychological state.Your background knowledge.The content of the speech or lecture.Levels of Listening
+**Hearing** is receiving sound. **Listening** is the deliberate process of attending to, interpreting, evaluating, and responding to a message. Listening supports learning, memory, relationships, and fewer misunderstandings.
 
-Types of ListeningActive ListeningReflective listeningCritical listeningEmpathic listeningListening for enjoymentPassive listening
+Listening can serve different purposes:
 
-Qualities of a good listenerThey talk less and listen moreThey do not interrupt othersThey are aware of biases and try to control themPlans responses after others have finished speaking. NOT while they are speaking.Never daydream or become preoccupied with their own thoughts when others talk.Provide feedbackAnalyzes the conversation by looking at all relevant factors and asking open ended questions.
+- **Active:** focus on the speaker and show attention through relevant feedback.
+- **Reflective:** restate or paraphrase the meaning to check understanding.
+- **Critical:** examine reasons and evidence before accepting a claim.
+- **Empathic:** attend to the speaker’s feelings and perspective.
+- **Enjoyment:** listen for appreciation or pleasure.
+- **Passive:** receive sound with little active engagement; important details can be missed.
 
-How to improve the Listening skillMaintain eye contactControl the listening environmentObserve non-verbal communicationListen without judgingShow that you understandBecome an active listenerListen without thinking of other things
+These are useful modes, not a single ranking. Choose the mode that fits the purpose.
 
-Reading for background informationRepeating names during introductionsAsking clarifying questionsTaking notesRecording lectures (When allowed)How to improve the Listening skill cont
+### Listen in four moves
 
-Barriers to listeningare any obstacles or challenges that prevent a person from accurately receiving, understanding and processing the message sent by a speaker.Can be grouped into: 1.Physical/ Environmental barriers loud noise, interruptions, hooting etc.2.Psychological barriers stress, anger, anxiety, lack of interest etc.3.Physiological barriers hearing impairment, tiredness, illness etc. 4.Semantic barriers occurs when people misunderstand words or the language used by the speaker. Characterized by ambiguous words, jargon etc. Barriers to effective Listening
+1. **Prepare:** reduce distractions and notice your purpose.
+2. **Attend:** let the speaker finish; observe words and relevant non-verbal cues.
+3. **Check meaning:** ask an open or clarifying question; paraphrase important points.
+4. **Respond:** give a relevant answer or record key ideas.
 
-Methods to overcome barriersConcentrate and maintain focusManage internal and external noiseResist talking when you should be listeningKeep an open mind
+**Example:** “So the proposal is due Friday, and you want feedback on the outline by Wednesday—is that right?” This paraphrase checks two details before action.
 
-Note taking is the practice of recording key pieces of information from another source such as a book or a meeting
+Common barriers include environmental noise, stress or anger, tiredness or hearing difficulty, and unfamiliar terms or jargon. Reduce distractions where possible, manage your state, ask for a term to be explained, and request repetition or another channel when needed.
 
-Record pertinent information such as:DateTitle of the presentationName of presenter or facilitatorUse economical ways of taking notes such as:AbbreviationsSymbolsAcronyms (words formed from the first letters or syllables of other words)Omit some letters such as vowels from wordsLeave out articles (a, and, the)Guidelines to Note Taking
+## 3. Take notes that help you retrieve ideas
 
-You should give your notes a structure to make them more intelligible to you. Some of the common formats are Cornell, diagram (mind mapping, charting)and outline.Note Formats
+Capture **main ideas, supporting details, examples, questions, and source information**—not every sentence. Record the date, topic, and presenter/source when relevant. Use abbreviations and symbols consistently, then expand anything unclear soon after the session.
 
-Involves dividing the page: cues, notes and summaries.Source: lifehacker.comCornell format
+![Course figure: note-taking supports learning and understanding, concentration, assessing information, and linking new ideas with known ideas](../assets/figures/lesson-2-p20-i01.jpg)
 
-This is visual representation of connected ideas.Diagram -Mind mapping format
+| Format | Best use | How it works |
+|---|---|---|
+| Cornell | Lecture or reading with later review | Main notes on one side, cue questions on the other, brief summary below |
+| Outline | Hierarchical material | Indent supporting points under main ideas |
+| Charting | Comparing repeated categories | Use columns for categories such as claim, evidence, and example |
+| Mind map | Showing relationships | Put the central topic in the middle and connect related branches |
 
-Organizing notes in columns for different aspects.Charting format
+After a lecture, compare notes with a classmate to identify gaps, but verify details against the source rather than copying errors.
 
-Hierarchy of ideasOutline format
+## 4. Oral skills: plan, deliver, respond
 
-Top 10 Tips on Note Taking During Lectures1.2.Pay attention3.Underline, highlight and capitalize4.Use Shorthand (Abbreviations)5.Put distractions away6.Be comfortable7.Ask questions when confused8.Share and compare notes with classmates9.Prepare before lecture10.Have a consisted structure
+An oral presentation is easier to follow when one clear purpose guides the structure.
 
-ETIVITIES By clicking on this linkhttps://www.youtube.com/watch?v=CdROC4CThCwwatch the video and answer the following questions.1. What was the aim of 17th annual meeting and conference?2. Universities are important in any society. Highlight 3 of the significance he mentioned?3. Which recommendation did he make as far as institutions of higher learning are concerned?4. How many times did you listen to the above video in order to respond to the listed questions?5. Which level of listening best describes you?6. Using any note-format, prepare a summary to highlight the main points in his message?
+1. **Plan:** identify audience, purpose, time limit, and key message.
+2. **Organize:** introduce the topic and main point; develop a few logically ordered points with examples; conclude by summarizing or stating the next step.
+3. **Prepare:** rehearse aloud, check timing, and make any visual aid readable and relevant.
+4. **Deliver:** use an audible pace and clear wording; look up from notes; use gestures naturally.
+5. **Respond:** listen to questions fully, clarify if needed, and answer directly. If unsure, say so and identify how you would verify the point.
 
-## Active recall
+**Example outline:** *Purpose: explain a library search strategy.* Opening: present the research question. Body: show keywords, filters, and source checks. Close: summarize the search and ask for questions.
 
-:::steps
-## Retrieval practice
----
-Close or cover the notes. Write the key idea, method, or definitions you remember.
----
-Reopen the notes and correct your recall in a different color. Add weak points to the progress tracker.
-:::
+## 5. Reading for purpose
+
+- **Preview** headings, introductions, conclusions, diagrams, and layout to see how a text is organized.
+- **Set a question** that tells you what information to locate.
+- **Read actively:** identify the main claim, supporting reasons, definitions, and evidence.
+- **Check meaning:** pause to explain a paragraph in your own words; mark unfamiliar terms to verify.
+- **Review:** summarize the argument and note questions or useful quotations with page details.
+
+Skimming gives an overview; scanning searches for a particular item. Neither replaces close reading when you must evaluate an argument or use evidence.
+
+### Active practice
+
+Listen to a short course explanation and take outline notes. Close the source and give a one-minute summary from memory. Then check your notes: mark one main idea, two supporting details, one question, and any missed or misheard point.
+
+### Common pitfalls
+
+- Interrupting or planning your reply while the other person is still speaking.
+- Treating group participation as task division only, with no coordination or shared review.
+- Writing a transcript instead of notes that distinguish main ideas from examples.
+- Treating skimming as enough to evaluate evidence or prepare an argument.
+- Reading slides aloud rather than explaining their meaning to the audience.
