@@ -1,6 +1,6 @@
 # CCS 101 — Communication Skills
 
-> University of Embu · Humanities
+> Independent study guide
 
 This pack organizes the available course outline and lecture materials into a
 topic-by-topic study path. Search covers the text inside each note. Use the
